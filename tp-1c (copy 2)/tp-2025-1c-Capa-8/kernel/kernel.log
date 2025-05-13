@@ -1,0 +1,494 @@
+[INFO] 22:24:48:001 KERNEL/(51020:51020): 8003
+[INFO] 22:24:48:001 KERNEL/(51020:51020): Esperando conexion en IO (puerto 1431678464)...
+[INFO] 22:48:33:222 KERNEL/(54214:54214): Kernel esta activo 1431658652
+[INFO] 22:58:44:782 KERNEL/(55779:55779): Esperando conexion en IO (puerto 1431678464)...
+[INFO] 23:04:37:084 KERNEL/(56788:56788): Esperando conexion en IO (puerto 8003)...
+[INFO] 23:11:50:782 KERNEL/(58682:58682): Esperando conexion en IO (puerto 8003)...
+[ERROR] 23:26:12:216 KERNEL/(59740:59740): Fallo la conexión con la memoria.
+[INFO] 23:30:04:961 KERNEL/(61055:61055): Conectado al memoria en ip_memoria:8002
+[INFO] 23:30:04:961 KERNEL/(61055:61055): IO listo. Esperando peticiones...
+[ERROR] 00:40:04:153 KERNEL/(3187:3187): Fallo la conexión con la memoria.
+[INFO] 00:40:21:320 KERNEL/(3621:3621): Esperando conexion en IO (puerto 8003)...
+[ERROR] 00:47:52:310 KERNEL/(3621:3621): Fallo la conexión con la memoria.
+[INFO] 00:53:39:773 KERNEL/(6981:6981): Esperando conexion en IO (puerto 8003)...
+[INFO] 00:54:29:664 KERNEL/(6981:6981): Conectado en IO: impresora
+[INFO] 01:00:11:631 KERNEL/(8476:8476): Esperando conexion en IO (puerto 8003)...
+[INFO] 01:00:40:620 KERNEL/(8476:8476): Conectado en IO: impresora
+[INFO] 01:00:40:620 KERNEL/(8476:8476): Conectado al memoria en ip_memoria:8002
+[INFO] 01:00:40:620 KERNEL/(8476:8476): memeria conectada. Esperando peticiones...
+[ERROR] 01:05:30:219 KERNEL/(9508:9508): Fallo la conexión con la memoria.
+[INFO] 01:05:54:091 KERNEL/(10022:10022): Conectado al memoria en ip_memoria:8002
+[INFO] 01:05:54:091 KERNEL/(10022:10022): Memoria conectada. Esperando peticiones...
+[ERROR] 01:07:34:295 KERNEL/(10617:10617): Fallo la conexión con la memoria.
+[INFO] 01:07:52:397 KERNEL/(11137:11137): Conectado al memoria en ip_memoria:8002
+[INFO] 01:07:52:397 KERNEL/(11137:11137): Memoria conectada. Esperando peticiones...
+[INFO] 01:11:10:143 KERNEL/(12643:12643): Conectado al memoria en ip_memoria:8002
+[INFO] 01:11:10:143 KERNEL/(12643:12643): Memoria conectada. Esperando peticiones...
+[ERROR] 01:12:37:064 KERNEL/(13241:13241): Fallo la conexión con la memoria.
+[ERROR] 01:13:01:516 KERNEL/(13528:13528): Fallo la conexión con la memoria.
+[ERROR] 01:13:22:045 KERNEL/(13775:13775): Fallo la conexión con la memoria.
+[ERROR] 01:13:32:566 KERNEL/(14030:14030): Fallo la conexión con la memoria.
+[INFO] 01:13:53:700 KERNEL/(14582:14582): Conectado al memoria en ip_memoria:8002
+[INFO] 01:13:53:700 KERNEL/(14582:14582): Memoria conectada. Esperando peticiones...
+[INFO] 01:13:53:700 KERNEL/(14582:14582): Handshake enviado con nombre: kernel
+[INFO] 01:27:10:655 KERNEL/(15432:15432): Conectado al memoria en ip_memoria:8002
+[INFO] 01:27:10:655 KERNEL/(15432:15432): Memoria conectada. Esperando peticiones...
+[INFO] 01:27:10:655 KERNEL/(15432:15432): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:28:57:597 KERNEL/(15432:15432): pase el recive
+[INFO] 01:28:57:597 KERNEL/(15432:15432): Conectado en DISPATCH: holi
+[INFO] 01:28:57:597 KERNEL/(15432:15432): Esperando conexion en INNTERRUPT (puerto 8004)...
+[INFO] 01:29:51:436 KERNEL/(16609:16609): Conectado al memoria en ip_memoria:8002
+[INFO] 01:29:51:436 KERNEL/(16609:16609): Memoria conectada. Esperando peticiones...
+[INFO] 01:29:51:436 KERNEL/(16609:16609): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:30:36:481 KERNEL/(17162:17162): Conectado al memoria en ip_memoria:8002
+[INFO] 01:30:36:481 KERNEL/(17162:17162): Memoria conectada. Esperando peticiones...
+[INFO] 01:30:36:481 KERNEL/(17162:17162): Handshake enviado con nombre: kernel
+[INFO] 01:31:47:294 KERNEL/(17733:17733): Conectado al memoria en ip_memoria:8002
+[INFO] 01:31:47:294 KERNEL/(17733:17733): Memoria conectada. Esperando peticiones...
+[INFO] 01:31:47:294 KERNEL/(17733:17733): Handshake enviado con nombre: kernel
+[INFO] 01:31:47:295 KERNEL/(17733:17733): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:34:37:096 KERNEL/(18649:18649): Conectado al memoria en ip_memoria:8002
+[INFO] 01:34:37:096 KERNEL/(18649:18649): Memoria conectada. Esperando peticiones...
+[INFO] 01:34:37:096 KERNEL/(18649:18649): Handshake enviado con nombre: kernel
+[INFO] 01:34:37:096 KERNEL/(18649:18649): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:39:54:049 KERNEL/(20691:20691): Conectado al memoria en ip_memoria:8002
+[INFO] 01:39:54:049 KERNEL/(20691:20691): Memoria conectada. Esperando peticiones...
+[INFO] 01:39:54:049 KERNEL/(20691:20691): Handshake enviado con nombre: kernel
+[INFO] 01:39:54:050 KERNEL/(20691:20691): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:40:13:310 KERNEL/(20691:20691): pase el recive
+[INFO] 01:40:13:310 KERNEL/(20691:20691): Conectado en DISPATCH: jonia
+[INFO] 01:40:13:310 KERNEL/(20691:20691): Esperando conexion en INNTERRUPT (puerto 8004)...
+[INFO] 01:41:40:744 KERNEL/(21603:21603): Conectado al memoria en ip_memoria:8002
+[INFO] 01:41:40:744 KERNEL/(21603:21603): Memoria conectada. Esperando peticiones...
+[INFO] 01:41:40:744 KERNEL/(21603:21603): Handshake enviado con nombre: kernel
+[INFO] 01:41:40:744 KERNEL/(21603:21603): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:41:54:131 KERNEL/(21603:21603): pase el recive
+[INFO] 01:41:54:131 KERNEL/(21603:21603): Conectado en DISPATCH: jonia
+[INFO] 01:41:54:131 KERNEL/(21603:21603): Esperando conexion en INNTERRUPT (puerto 8004)...
+[ERROR] 01:49:51:859 KERNEL/(22707:22707): Fallo la conexión con la memoria.
+[ERROR] 01:50:14:714 KERNEL/(22961:22961): Fallo la conexión con la memoria.
+[ERROR] 01:50:37:194 KERNEL/(23214:23214): Fallo la conexión con la memoria.
+[INFO] 01:51:42:187 KERNEL/(23762:23762): Conectado al memoria en ip_memoria:8002
+[INFO] 01:51:42:187 KERNEL/(23762:23762): Memoria conectada. Esperando peticiones...
+[INFO] 01:51:42:187 KERNEL/(23762:23762): Handshake enviado con nombre: kernel
+[INFO] 01:51:42:187 KERNEL/(23762:23762): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:56:26:386 KERNEL/(26165:26165): Conectado al memoria en ip_memoria:8002
+[INFO] 01:56:26:386 KERNEL/(26165:26165): Memoria conectada. Esperando peticiones...
+[INFO] 01:56:26:386 KERNEL/(26165:26165): Handshake enviado con nombre: kernel
+[INFO] 01:56:26:386 KERNEL/(26165:26165): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 01:57:57:708 KERNEL/(26165:26165): Conectado en DISPATCH: hola
+[INFO] 01:57:57:708 KERNEL/(26165:26165): Esperando conexion en INNTERRUPT (puerto 8004)...
+[INFO] 02:12:19:320 KERNEL/(28137:28137): Conectado al memoria en ip_memoria:8002
+[INFO] 02:12:19:320 KERNEL/(28137:28137): Memoria conectada. Esperando peticiones...
+[INFO] 02:12:19:320 KERNEL/(28137:28137): Handshake enviado con nombre: kernel
+[INFO] 02:12:19:320 KERNEL/(28137:28137): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 02:13:18:781 KERNEL/(29073:29073): Conectado al memoria en ip_memoria:8002
+[INFO] 02:13:18:781 KERNEL/(29073:29073): Memoria conectada. Esperando peticiones...
+[INFO] 02:13:18:781 KERNEL/(29073:29073): Handshake enviado con nombre: kernel
+[INFO] 02:13:18:781 KERNEL/(29073:29073): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 02:17:28:143 KERNEL/(31368:31368): Conectado al memoria en ip_memoria:8002
+[INFO] 02:17:28:143 KERNEL/(31368:31368): Memoria conectada. Esperando peticiones...
+[INFO] 02:17:28:143 KERNEL/(31368:31368): Handshake enviado con nombre: kernel
+[INFO] 02:17:28:143 KERNEL/(31368:31368): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 02:23:11:715 KERNEL/(31368:31368): Conectado en DISPATCH: cargar
+[INFO] 02:23:11:715 KERNEL/(31368:31368): Esperando conexion en INNTERRUPT (puerto 8004)...
+[INFO] 02:24:24:333 KERNEL/(33625:33625): Conectado al memoria en ip_memoria:8002
+[INFO] 02:24:24:333 KERNEL/(33625:33625): Memoria conectada. Esperando peticiones...
+[INFO] 02:24:24:333 KERNEL/(33625:33625): Handshake enviado con nombre: kernel
+[INFO] 02:24:24:333 KERNEL/(33625:33625): Esperando conexion en DISPATCH (puerto 8001)...
+[INFO] 02:25:21:297 KERNEL/(33625:33625): Conectado en DISPATCH: hola
+[INFO] 02:25:21:297 KERNEL/(33625:33625): Esperando conexion en INNTERRUPT (puerto 8004)...
+[INFO] 02:35:29:335 KERNEL/(36168:36168): Conectado al memoria en ip_memoria:8002
+[INFO] 02:35:29:335 KERNEL/(36168:36168): Memoria conectada. Esperando peticiones...
+[INFO] 02:35:29:335 KERNEL/(36168:36168): Handshake enviado con nombre: kernel
+[INFO] 02:35:29:335 KERNEL/(36168:36168): Servidor escuchando en puerto 8001
+[INFO] 02:35:29:335 KERNEL/(36168:36168): Servidor escuchando en puerto 8004
+[INFO] 02:35:58:933 KERNEL/(36168:36168): Se conectó un cliente a DISPATCH
+[INFO] 02:35:58:933 KERNEL/(36168:36168): 🤝 Handshake recibido en DISPATCH: hola
+[INFO] 02:35:58:933 KERNEL/(36168:36168): Se conectó un cliente a INTERRUPT
+[INFO] 02:35:58:934 KERNEL/(36168:36168): 🤝 Handshake recibido en INTERRUPT: hola
+[INFO] 02:38:12:892 KERNEL/(37352:37352): Conectado al memoria en ip_memoria:8002
+[INFO] 02:38:12:892 KERNEL/(37352:37352): Memoria conectada. Esperando peticiones...
+[INFO] 02:38:12:892 KERNEL/(37352:37352): Handshake enviado con nombre: kernel
+[INFO] 02:38:12:892 KERNEL/(37352:37352): Servidor escuchando en puerto 8001
+[INFO] 02:38:12:892 KERNEL/(37352:37352): Servidor escuchando en puerto 8004
+[INFO] 02:38:30:012 KERNEL/(37352:37352): Se conectó un cliente a DISPATCH
+[INFO] 02:38:30:012 KERNEL/(37352:37352): 🤝 Handshake recibido en DISPATCH: hola
+[INFO] 02:38:30:012 KERNEL/(37352:37352): Se conectó un cliente a INTERRUPT
+[INFO] 02:38:30:012 KERNEL/(37352:37352): 🤝 Handshake recibido en INTERRUPT: hola
+[INFO] 02:38:30:012 KERNEL/(37352:37352): Esperando conexion en IO (puerto 8003)...
+[INFO] 02:39:18:500 KERNEL/(37352:37352): Conectado en IO: impresora
+[ERROR] 19:12:52:550 KERNEL/(1665:1665): Fallo la conexión con la memoria.
+[INFO] 19:26:16:915 KERNEL/(2675:2675): Conectado al memoria en ip_memoria:8002
+[INFO] 19:26:16:928 KERNEL/(2675:2675): Memoria conectada. Esperando peticiones...
+[INFO] 19:26:16:929 KERNEL/(2675:2675): Handshake enviado con nombre: kernel
+[INFO] 19:26:16:929 KERNEL/(2675:2675): Servidor escuchando en puerto 8001
+[INFO] 19:26:16:929 KERNEL/(2675:2675): Servidor escuchando en puerto 8004
+[INFO] 19:27:32:691 KERNEL/(2675:2675): Se conectó un cliente a DISPATCH
+[INFO] 19:27:32:691 KERNEL/(2675:2675): 🤝 Handshake recibido en DISPATCH: hawai
+[INFO] 19:27:32:692 KERNEL/(2675:2675): Se conectó un cliente a INTERRUPT
+[INFO] 19:27:32:692 KERNEL/(2675:2675): 🤝 Handshake recibido en INTERRUPT: hawai
+[INFO] 19:27:32:692 KERNEL/(2675:2675): Esperando conexion en IO (puerto 8003)...
+[INFO] 19:28:31:097 KERNEL/(2675:2675): Conectado en IO: impresora
+[INFO] 22:32:03:796 KERNEL/(3590:3590): Conectado al memoria en ip_memoria:8002
+[INFO] 22:32:03:796 KERNEL/(3590:3590): Memoria conectada. Esperando peticiones...
+[INFO] 22:32:03:796 KERNEL/(3590:3590): Handshake enviado con nombre: kernel
+[INFO] 22:32:03:796 KERNEL/(3590:3590): Servidor escuchando en puerto 8001
+[INFO] 22:32:03:796 KERNEL/(3590:3590): Servidor escuchando en puerto 8004
+[INFO] 22:32:36:378 KERNEL/(3590:3590): Se conectó un cliente a DISPATCH
+[INFO] 22:32:36:378 KERNEL/(3590:3590): 🤝 Handshake recibido en DISPATCH: hola
+[INFO] 22:32:36:378 KERNEL/(3590:3590): Se conectó un cliente a INTERRUPT
+[INFO] 22:32:36:378 KERNEL/(3590:3590): 🤝 Handshake recibido en INTERRUPT: hola
+[INFO] 22:32:36:378 KERNEL/(3590:3590): Esperando conexion en IO (puerto 8003)...
+[INFO] 22:33:03:756 KERNEL/(3590:3590): Conectado en IO: impresora
+[ERROR] 23:19:11:463 KERNEL/(3787:3787): Fallo la conexión con la memoria.
+[ERROR] 23:25:13:434 KERNEL/(5697:5697): Fallo la conexión con la memoria.
+[INFO] 23:25:31:910 KERNEL/(6235:6235): Conectado al memoria en ip_memoria:8002
+[INFO] 23:25:31:910 KERNEL/(6235:6235): Memoria conectada. Esperando peticiones...
+[INFO] 23:25:31:910 KERNEL/(6235:6235): Handshake enviado con nombre: kernel
+[INFO] 23:25:31:910 KERNEL/(6235:6235): Servidor escuchando en puerto 8001
+[INFO] 23:25:31:910 KERNEL/(6235:6235): Servidor escuchando en puerto 8004
+[INFO] 01:30:20:323 KERNEL/(9003:9003): Servidor escuchando en puerto 8001
+[INFO] 01:30:20:325 KERNEL/(9003:9003): Servidor escuchando en puerto 8004
+[INFO] 01:33:08:263 KERNEL/(10213:10213): Servidor escuchando en puerto 8001
+[INFO] 01:33:08:267 KERNEL/(10213:10213): Servidor escuchando en puerto 8004
+[INFO] 01:33:48:419 KERNEL/(10830:10830): Servidor escuchando en puerto 8001
+[INFO] 01:33:48:422 KERNEL/(10830:10830): Servidor escuchando en puerto 8004
+[INFO] 01:34:54:627 KERNEL/(11175:11194): Conectado al memoria en ip_memoria:8002
+[INFO] 01:34:54:627 KERNEL/(11175:11194): Memoria conectada. Esperando peticiones...
+[INFO] 01:34:54:627 KERNEL/(11175:11194): Handshake enviado con nombre: kernel
+[INFO] 01:34:54:627 KERNEL/(11175:11175): Servidor escuchando en puerto 8001
+[INFO] 01:34:54:627 KERNEL/(11175:11175): Servidor escuchando en puerto 8004
+[INFO] 02:35:37:092 KERNEL/(5827:5827): Listo para escuchar a mi cliente
+[INFO] 02:35:50:337 KERNEL/(6085:6085): Listo para escuchar a mi cliente
+[INFO] 02:37:07:398 KERNEL/(6356:6356): Listo para escuchar a mi cliente
+[INFO] 02:37:07:398 KERNEL/(6356:6356): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:37:35:241 KERNEL/(6798:6798): Listo para escuchar a mi cliente
+[INFO] 02:37:35:241 KERNEL/(6798:6798): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:44:18:504 KERNEL/(7328:7328): Listo para escuchar a mi cliente
+[INFO] 03:03:26:792 KERNEL/(8845:8845): Listo para escuchar a mi cliente
+[INFO] 03:04:10:411 KERNEL/(9159:9159): Listo para escuchar a mi cliente
+[INFO] 03:04:10:412 KERNEL/(9159:9159): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 18:55:31:728 KERNEL/(4383:4383): Listo para escuchar a mi cliente
+[INFO] 18:55:31:728 KERNEL/(4383:4383): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 18:58:09:708 KERNEL/(5517:5517): Listo para escuchar a mi cliente
+[INFO] 01:58:46:709 KERNEL/(3660:3660): lei 8017
+[INFO] 01:58:46:721 KERNEL/(3660:3660): Listo para escuchar a mi cliente
+[INFO] 02:01:17:311 KERNEL/(4570:4570): lei 8017
+[INFO] 02:01:17:311 KERNEL/(4570:4570): Listo para escuchar a mi cliente
+[INFO] 02:02:11:106 KERNEL/(5356:5356): lei 8017
+[INFO] 02:02:11:106 KERNEL/(5356:5356): Listo para escuchar a mi cliente
+[INFO] 02:02:11:106 KERNEL/(5356:5356): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:02:11:107 KERNEL/(5356:5356): Listo para escuchar a mi cliente
+[INFO] 02:11:15:096 KERNEL/(6424:6424): lei 8017
+[INFO] 02:11:15:097 KERNEL/(6424:6424): Listo para escuchar a mi cliente
+[INFO] 02:11:15:097 KERNEL/(6424:6424): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:11:15:097 KERNEL/(6424:6424): Listo para escuchar a mi cliente
+[INFO] 02:12:27:665 KERNEL/(6424:6424): Cliente conectado a Cpu
+[INFO] 02:12:27:665 KERNEL/(6424:6424): Cliente conectado en (null):8017
+
+[INFO] 02:27:15:249 KERNEL/(10008:10008): lei 8017
+[INFO] 02:27:15:249 KERNEL/(10008:10008): Listo para escuchar a mi cliente
+[INFO] 02:27:15:250 KERNEL/(10008:10008): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:27:15:250 KERNEL/(10008:10008): Listo para escuchar a mi cliente
+[INFO] 02:27:26:097 KERNEL/(10008:10008): Cliente conectado a Cpu
+[INFO] 02:27:26:098 KERNEL/(10008:10008): Cliente conectado en (null):8017
+
+[INFO] 02:38:15:763 KERNEL/(12567:12567): lei 8017
+[INFO] 02:38:15:764 KERNEL/(12567:12567): Listo para escuchar a mi cliente
+[INFO] 02:38:15:764 KERNEL/(12567:12567): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:38:15:764 KERNEL/(12567:12567): Listo para escuchar a mi cliente
+[INFO] 02:38:25:041 KERNEL/(12567:12567): Cliente conectado a Cpu
+[INFO] 02:38:25:041 KERNEL/(12567:12567): Cliente conectado en (null):8017
+
+[INFO] 02:41:26:098 KERNEL/(14811:14811): lei 8017
+[INFO] 02:41:26:098 KERNEL/(14811:14811): Listo para escuchar a mi cliente
+[INFO] 02:41:26:098 KERNEL/(14811:14811): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 02:41:26:099 KERNEL/(14811:14811): Listo para escuchar a mi cliente
+[INFO] 02:41:33:025 KERNEL/(14811:14811): Cliente conectado a Cpu
+[INFO] 02:41:33:025 KERNEL/(14811:14811): Cliente conectado en (null):8017
+
+[INFO] 03:37:17:128 KERNEL/(2236:2236): lei 8017
+[INFO] 03:37:17:129 KERNEL/(2236:2236): Listo para escuchar a mi cliente
+[INFO] 03:37:17:129 KERNEL/(2236:2236): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 03:37:17:129 KERNEL/(2236:2236): Listo para escuchar a mi cliente
+[INFO] 03:37:30:064 KERNEL/(2236:2236): Cliente conectado a Cpu
+[INFO] 03:37:30:064 KERNEL/(2236:2236): Cliente conectado en (null):8017
+
+[INFO] 03:41:06:820 KERNEL/(3213:3213): lei 8017
+[INFO] 03:41:06:820 KERNEL/(3213:3213): Listo para escuchar a mi cliente
+[INFO] 03:41:06:821 KERNEL/(3213:3213): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 03:41:06:821 KERNEL/(3213:3213): Listo para escuchar a mi cliente
+[INFO] 03:41:15:947 KERNEL/(3213:3213): Cliente conectado a Cpu
+[INFO] 03:41:15:948 KERNEL/(3213:3213): Cliente conectado en (null):8017
+
+[INFO] 03:46:03:872 KERNEL/(4581:4581): lei 8017
+[INFO] 03:46:03:872 KERNEL/(4581:4581): Listo para escuchar a mi cliente
+[INFO] 03:46:03:872 KERNEL/(4581:4581): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 03:46:03:872 KERNEL/(4581:4581): Listo para escuchar a mi cliente
+[INFO] 03:46:20:793 KERNEL/(4581:4581): Cliente conectado a Cpu
+[INFO] 03:46:20:794 KERNEL/(4581:4581): Cliente conectado en (null):8017
+
+[INFO] 03:48:47:667 KERNEL/(5888:5888): lei 8017
+[INFO] 03:48:47:667 KERNEL/(5888:5888): Listo para escuchar a mi cliente
+[INFO] 03:48:47:668 KERNEL/(5888:5888): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 03:48:47:668 KERNEL/(5888:5888): Listo para escuchar a mi cliente
+[INFO] 03:49:01:038 KERNEL/(5888:5888): Cliente conectado a Cpu
+[INFO] 03:49:01:038 KERNEL/(5888:5888): Cliente conectado en (null):8017
+
+[INFO] 03:50:33:225 KERNEL/(6580:6580): lei 8017
+[INFO] 03:50:33:225 KERNEL/(6580:6580): Listo para escuchar a mi cliente
+[INFO] 03:50:33:225 KERNEL/(6580:6580): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 03:50:33:226 KERNEL/(6580:6580): Listo para escuchar a mi cliente
+[INFO] 03:50:39:772 KERNEL/(6580:6580): Cliente conectado a Cpu
+[INFO] 03:50:39:772 KERNEL/(6580:6580): Cliente conectado en (null):8017
+
+[INFO] 03:58:50:097 KERNEL/(7335:7335): lei 8017
+[INFO] 03:58:50:097 KERNEL/(7335:7335): Listo para escuchar a mi cliente
+[INFO] 03:58:50:097 KERNEL/(7335:7335): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 03:58:50:097 KERNEL/(7335:7335): Listo para escuchar a mi cliente
+[INFO] 03:58:58:766 KERNEL/(7335:7335): Cliente conectado a Cpu
+[INFO] 04:04:07:260 KERNEL/(8376:8376): lei 8017
+[INFO] 04:04:07:260 KERNEL/(8376:8376): Listo para escuchar a mi cliente
+[INFO] 04:04:07:260 KERNEL/(8376:8376): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:04:07:261 KERNEL/(8376:8376): Listo para escuchar a mi cliente
+[INFO] 04:04:14:088 KERNEL/(8376:8376): Cliente conectado a Cpu
+[INFO] 04:05:16:892 KERNEL/(9003:9003): lei 8017
+[INFO] 04:05:16:892 KERNEL/(9003:9003): Listo para escuchar a mi cliente
+[INFO] 04:05:16:892 KERNEL/(9003:9003): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:05:16:893 KERNEL/(9003:9003): Listo para escuchar a mi cliente
+[INFO] 04:05:24:617 KERNEL/(9003:9003): Cliente conectado a Cpu
+[INFO] 04:06:08:276 KERNEL/(9603:9603): lei 8017
+[INFO] 04:06:08:276 KERNEL/(9603:9603): Listo para escuchar a mi cliente
+[INFO] 04:06:08:276 KERNEL/(9603:9603): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:06:08:276 KERNEL/(9603:9603): Listo para escuchar a mi cliente
+[INFO] 04:06:15:326 KERNEL/(9603:9603): Cliente conectado a Cpu
+[INFO] 04:09:22:462 KERNEL/(10225:10225): lei 8017
+[INFO] 04:09:22:462 KERNEL/(10225:10225): Listo para escuchar a mi cliente
+[INFO] 04:09:22:463 KERNEL/(10225:10225): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:09:22:463 KERNEL/(10225:10225): Listo para escuchar a mi cliente
+[INFO] 04:09:33:594 KERNEL/(10506:10506): lei 8017
+[INFO] 04:09:33:594 KERNEL/(10506:10506): Listo para escuchar a mi cliente
+[INFO] 04:09:33:595 KERNEL/(10506:10506): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:09:33:595 KERNEL/(10506:10506): Listo para escuchar a mi cliente
+[INFO] 04:09:42:104 KERNEL/(10506:10506): Cliente conectado a Cpu
+[INFO] 04:18:11:126 KERNEL/(11615:11615): lei 8017
+[INFO] 04:18:11:126 KERNEL/(11615:11615): Listo para escuchar a mi cliente
+[INFO] 04:18:11:126 KERNEL/(11615:11615): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:18:11:126 KERNEL/(11615:11615): Listo para escuchar a mi cliente
+[INFO] 04:18:19:168 KERNEL/(11615:11615): Cliente conectado a Cpu
+[INFO] 04:19:45:832 KERNEL/(12224:12224): lei 8017
+[INFO] 04:19:45:832 KERNEL/(12224:12224): Listo para escuchar a mi cliente
+[INFO] 04:19:45:832 KERNEL/(12224:12224): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 04:19:45:832 KERNEL/(12224:12224): Listo para escuchar a mi cliente
+[INFO] 04:19:53:073 KERNEL/(12224:12224): Cliente conectado a Cpu
+[INFO] 04:19:53:073 KERNEL/(12224:12224): Me llego el mensaje: z�
+[INFO] 14:07:54:105 KERNEL/(2286:2286): lei 8017
+[INFO] 14:07:54:107 KERNEL/(2286:2286): Listo para escuchar a mi cliente
+[INFO] 14:07:54:107 KERNEL/(2286:2286): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:07:54:107 KERNEL/(2286:2286): Listo para escuchar a mi cliente
+[INFO] 14:08:14:202 KERNEL/(2286:2286): Cliente conectado a Cpu
+[INFO] 14:08:14:202 KERNEL/(2286:2286): Me llego el mensaje: z�
+[INFO] 14:22:18:227 KERNEL/(5104:5104): lei 8017
+[INFO] 14:22:18:227 KERNEL/(5104:5104): Listo para escuchar a mi cliente
+[INFO] 14:22:18:227 KERNEL/(5104:5104): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:22:18:228 KERNEL/(5104:5104): Listo para escuchar a mi cliente
+[INFO] 14:22:24:106 KERNEL/(5104:5104): Cliente conectado a Cpu
+[INFO] 14:22:24:106 KERNEL/(5104:5104): Me llego el mensaje: z�
+[INFO] 14:23:11:345 KERNEL/(5639:5639): lei 8017
+[INFO] 14:23:11:346 KERNEL/(5639:5639): Listo para escuchar a mi cliente
+[INFO] 14:23:11:346 KERNEL/(5639:5639): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:23:11:346 KERNEL/(5639:5639): Listo para escuchar a mi cliente
+[INFO] 14:23:15:919 KERNEL/(5639:5639): Cliente conectado a Cpu
+[INFO] 14:23:15:920 KERNEL/(5639:5639): Me llego el mensaje: z�
+[INFO] 14:37:11:951 KERNEL/(7312:7312): lei 8017
+[INFO] 14:37:11:951 KERNEL/(7312:7312): Listo para escuchar a mi cliente
+[INFO] 14:37:11:951 KERNEL/(7312:7312): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:37:11:951 KERNEL/(7312:7312): Listo para escuchar a mi cliente
+[INFO] 14:37:23:493 KERNEL/(7572:7572): lei 8017
+[INFO] 14:37:23:494 KERNEL/(7572:7572): Listo para escuchar a mi cliente
+[INFO] 14:37:23:494 KERNEL/(7572:7572): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:37:23:494 KERNEL/(7572:7572): Listo para escuchar a mi cliente
+[INFO] 14:37:33:795 KERNEL/(7572:7572): Cliente conectado a Cpu
+[INFO] 14:37:33:795 KERNEL/(7572:7572): Me llego el mensaje: 0.0.1
+[INFO] 14:39:31:994 KERNEL/(8423:8423): lei 8017
+[INFO] 14:39:31:995 KERNEL/(8423:8423): Listo para escuchar a mi cliente
+[INFO] 14:39:31:995 KERNEL/(8423:8423): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:39:31:995 KERNEL/(8423:8423): Listo para escuchar a mi cliente
+[INFO] 14:39:43:776 KERNEL/(8423:8423): Cliente conectado a Cpu
+[INFO] 14:39:43:776 KERNEL/(8423:8423): Me llego el mensaje: 0.0.1
+[INFO] 14:43:54:634 KERNEL/(9109:9109): lei 8017
+[INFO] 14:43:54:635 KERNEL/(9109:9109): Listo para escuchar a mi cliente
+[INFO] 14:43:54:635 KERNEL/(9109:9109): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:43:54:635 KERNEL/(9109:9109): Listo para escuchar a mi cliente
+[INFO] 14:44:01:046 KERNEL/(9109:9109): Cliente conectado a Cpu
+[INFO] 14:44:01:046 KERNEL/(9109:9109): Me llego el mensaje: j�
+[INFO] 14:44:43:123 KERNEL/(9886:9886): lei 8017
+[INFO] 14:44:43:124 KERNEL/(9886:9886): Listo para escuchar a mi cliente
+[INFO] 14:44:43:124 KERNEL/(9886:9886): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:44:43:124 KERNEL/(9886:9886): Listo para escuchar a mi cliente
+[INFO] 14:44:49:364 KERNEL/(9886:9886): Cliente conectado a Cpu
+[INFO] 14:44:49:364 KERNEL/(9886:9886): Me llego el mensaje: 127.0.0.1
+[INFO] 14:45:31:292 KERNEL/(10437:10437): lei 8017
+[INFO] 14:45:31:292 KERNEL/(10437:10437): Listo para escuchar a mi cliente
+[INFO] 14:45:31:292 KERNEL/(10437:10437): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:45:31:292 KERNEL/(10437:10437): Listo para escuchar a mi cliente
+[INFO] 14:45:37:468 KERNEL/(10437:10437): Cliente conectado a Cpu
+[INFO] 14:45:37:469 KERNEL/(10437:10437): Me llego el mensaje: 8017
+[INFO] 14:47:39:374 KERNEL/(11023:11023): lei 8017
+[INFO] 14:47:39:374 KERNEL/(11023:11023): Listo para escuchar a mi cliente
+[INFO] 14:47:39:374 KERNEL/(11023:11023): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:47:39:375 KERNEL/(11023:11023): Listo para escuchar a mi cliente
+[INFO] 14:48:21:346 KERNEL/(11023:11023): Cliente conectado a Cpu
+[INFO] 14:48:21:347 KERNEL/(11023:11023): Me llego el mensaje: 127.0.0.1
+[INFO] 14:50:30:253 KERNEL/(11616:11616): lei 8017
+[INFO] 14:50:30:253 KERNEL/(11616:11616): Listo para escuchar a mi cliente
+[INFO] 14:50:30:253 KERNEL/(11616:11616): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:50:30:253 KERNEL/(11616:11616): Listo para escuchar a mi cliente
+[INFO] 14:50:51:358 KERNEL/(11616:11616): Cliente conectado a Cpu
+[INFO] 14:50:51:359 KERNEL/(11616:11616): Me llego el mensaje: 127.0.0.1
+[INFO] 14:50:51:359 KERNEL/(11616:11616): Me llego el mensaje: z�
+[INFO] 14:53:12:050 KERNEL/(12446:12446): lei 8017
+[INFO] 14:53:12:051 KERNEL/(12446:12446): Listo para escuchar a mi cliente
+[INFO] 14:53:12:051 KERNEL/(12446:12446): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:53:12:051 KERNEL/(12446:12446): Listo para escuchar a mi cliente
+[INFO] 14:53:20:005 KERNEL/(12446:12446): Cliente conectado a Cpu
+[INFO] 14:53:20:005 KERNEL/(12446:12446): Me llego el mensaje: 127.0.0.1
+[INFO] 14:53:20:005 KERNEL/(12446:12446): Me llego el mensaje: z�
+[INFO] 14:56:14:913 KERNEL/(13088:13088): lei 8017
+[INFO] 14:56:14:914 KERNEL/(13088:13088): Listo para escuchar a mi cliente
+[INFO] 14:56:14:914 KERNEL/(13088:13088): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:56:14:915 KERNEL/(13088:13088): Listo para escuchar a mi cliente
+[INFO] 14:56:20:522 KERNEL/(13088:13088): Cliente conectado a Cpu
+[INFO] 14:56:25:523 KERNEL/(13088:13088): Me llego el mensaje: 127.0.0.1
+[INFO] 14:58:27:941 KERNEL/(13796:13796): lei 8017
+[INFO] 14:58:27:941 KERNEL/(13796:13796): Listo para escuchar a mi cliente
+[INFO] 14:58:27:941 KERNEL/(13796:13796): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:58:27:941 KERNEL/(13796:13796): Listo para escuchar a mi cliente
+[INFO] 14:58:35:579 KERNEL/(13796:13796): Cliente conectado a Cpu
+[INFO] 14:58:35:579 KERNEL/(13796:13796): Me llego el mensaje: 127.0.0.1
+[INFO] 14:59:05:045 KERNEL/(14450:14450): lei 8017
+[INFO] 14:59:05:045 KERNEL/(14450:14450): Listo para escuchar a mi cliente
+[INFO] 14:59:05:045 KERNEL/(14450:14450): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 14:59:05:045 KERNEL/(14450:14450): Listo para escuchar a mi cliente
+[INFO] 14:59:10:378 KERNEL/(14450:14450): Cliente conectado a Cpu
+[INFO] 14:59:10:378 KERNEL/(14450:14450): Me llego el mensaje: anasheeeeeeeeeeeee
+[INFO] 15:03:17:463 KERNEL/(15220:15220): lei 8017
+[INFO] 15:03:17:463 KERNEL/(15220:15220): Listo para escuchar a mi cliente
+[INFO] 15:03:17:463 KERNEL/(15220:15220): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:03:17:464 KERNEL/(15220:15220): Listo para escuchar a mi cliente
+[INFO] 15:03:22:944 KERNEL/(15220:15220): Cliente conectado a Cpu
+[INFO] 15:03:22:944 KERNEL/(15220:15220): Me llego el mensaje: anasheeeeeeeeeeeee
+[INFO] 15:03:53:551 KERNEL/(15883:15883): lei 8017
+[INFO] 15:03:53:551 KERNEL/(15883:15883): Listo para escuchar a mi cliente
+[INFO] 15:03:53:551 KERNEL/(15883:15883): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:03:53:551 KERNEL/(15883:15883): Listo para escuchar a mi cliente
+[INFO] 15:03:58:403 KERNEL/(15883:15883): Cliente conectado a Cpu
+[INFO] 15:04:05:406 KERNEL/(15883:15883): Me llego el mensaje: anasheeeeeeeeeeeee
+[INFO] 15:04:50:262 KERNEL/(16759:16759): lei 8017
+[INFO] 15:04:50:262 KERNEL/(16759:16759): Listo para escuchar a mi cliente
+[INFO] 15:04:50:262 KERNEL/(16759:16759): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:04:50:262 KERNEL/(16759:16759): Listo para escuchar a mi cliente
+[INFO] 15:04:55:836 KERNEL/(16759:16759): Cliente conectado a Cpu
+[INFO] 15:05:02:838 KERNEL/(16759:16759): Me llego el mensaje: anasheeeeeeeeeeeee
+[INFO] 15:05:57:705 KERNEL/(17473:17473): lei 8017
+[INFO] 15:05:57:705 KERNEL/(17473:17473): Listo para escuchar a mi cliente
+[INFO] 15:05:57:705 KERNEL/(17473:17473): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:05:57:706 KERNEL/(17473:17473): Listo para escuchar a mi cliente
+[INFO] 15:06:06:833 KERNEL/(17473:17473): Cliente conectado a Cpu
+[INFO] 15:06:13:835 KERNEL/(17473:17473): Me llego el mensaje: anasheeeeeeeeeeeee
+[INFO] 15:12:29:325 KERNEL/(18454:18454): lei 8017
+[INFO] 15:12:29:325 KERNEL/(18454:18454): Listo para escuchar a mi cliente
+[INFO] 15:12:29:325 KERNEL/(18454:18454): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:12:29:326 KERNEL/(18454:18454): Listo para escuchar a mi cliente
+[INFO] 15:12:35:753 KERNEL/(18454:18454): Cliente conectado a Cpu
+[INFO] 15:12:42:756 KERNEL/(18454:18454): Me llego el mensaje: anasheeeeeeeeeeeee
+[INFO] 15:13:32:355 KERNEL/(19154:19154): lei 8017
+[INFO] 15:13:32:355 KERNEL/(19154:19154): Listo para escuchar a mi cliente
+[INFO] 15:13:32:355 KERNEL/(19154:19154): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:13:32:356 KERNEL/(19154:19154): Listo para escuchar a mi cliente
+[INFO] 15:13:38:701 KERNEL/(19154:19154): Cliente conectado a Cpu
+[INFO] 15:14:39:915 KERNEL/(19801:19801): lei 8017
+[INFO] 15:14:39:915 KERNEL/(19801:19801): Listo para escuchar a mi cliente
+[INFO] 15:14:39:916 KERNEL/(19801:19801): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:14:39:916 KERNEL/(19801:19801): Listo para escuchar a mi cliente
+[INFO] 15:15:20:308 KERNEL/(20686:20686): lei 8017
+[INFO] 15:15:20:309 KERNEL/(20686:20686): Listo para escuchar a mi cliente
+[INFO] 15:15:20:309 KERNEL/(20686:20686): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:15:20:309 KERNEL/(20686:20686): Listo para escuchar a mi cliente
+[INFO] 15:15:26:134 KERNEL/(20686:20686): Cliente conectado a Cpu
+[INFO] 15:16:39:777 KERNEL/(20686:20686): Me llego el mensaje: 127.0.0.1
+[INFO] 15:16:51:535 KERNEL/(21314:21314): lei 8017
+[INFO] 15:16:51:535 KERNEL/(21314:21314): Listo para escuchar a mi cliente
+[INFO] 15:16:51:535 KERNEL/(21314:21314): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:16:51:536 KERNEL/(21314:21314): Listo para escuchar a mi cliente
+[INFO] 15:16:59:450 KERNEL/(21314:21314): Cliente conectado a Cpu
+[INFO] 15:17:02:317 KERNEL/(21314:21314): Me llego el mensaje: 127.0.0.1
+[INFO] 15:18:47:490 KERNEL/(21958:21958): lei 8017
+[INFO] 15:18:47:491 KERNEL/(21958:21958): Listo para escuchar a mi cliente
+[INFO] 15:18:47:491 KERNEL/(21958:21958): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:18:47:491 KERNEL/(21958:21958): Listo para escuchar a mi cliente
+[INFO] 15:18:54:306 KERNEL/(21958:21958): Cliente conectado a Cpu
+[INFO] 15:18:55:307 KERNEL/(21958:21958): Me llego el mensaje: 127.0.0.1
+[INFO] 15:22:46:789 KERNEL/(22849:22849): lei 8017
+[INFO] 15:22:46:790 KERNEL/(22849:22849): Listo para escuchar a mi cliente
+[INFO] 15:22:46:790 KERNEL/(22849:22849): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:22:46:790 KERNEL/(22849:22849): Listo para escuchar a mi cliente
+[INFO] 15:22:51:877 KERNEL/(22849:22849): Cliente conectado a Cpu
+[INFO] 15:22:52:879 KERNEL/(22849:22849): Me llego el mensaje: 127.0.0.1
+[INFO] 15:23:40:038 KERNEL/(23460:23460): lei 8017
+[INFO] 15:23:40:038 KERNEL/(23460:23460): Listo para escuchar a mi cliente
+[INFO] 15:23:40:038 KERNEL/(23460:23460): Cliente conectado en 127.0.0.1:8002
+
+[INFO] 15:23:40:038 KERNEL/(23460:23460): Listo para escuchar a mi cliente
+[INFO] 15:23:46:655 KERNEL/(23460:23460): Cliente conectado a Cpu
+[INFO] 15:23:46:655 KERNEL/(23460:23460): Me llego el mensaje: 127.0.0.1
+[INFO] 15:23:47:657 KERNEL/(23460:23460): Me llego el mensaje: anasheeeeeeeeeeeee

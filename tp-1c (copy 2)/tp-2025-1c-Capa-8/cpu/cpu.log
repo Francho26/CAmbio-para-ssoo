@@ -1,0 +1,277 @@
+[INFO] 09:29:44:500 CPU/(3603:3603): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 09:30:04:706 CPU/(3958:3958): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 09:30:06:771 CPU/(3977:3977): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 09:33:39:622 CPU/(5088:5088): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 09:38:21:766 CPU/(5409:5409): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 19:27:32:695 CPU/(2691:2691): CPU 'hawai' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 22:32:36:378 CPU/(3597:3597): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 01:32:12:806 CPU/(9807:9807): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 10:06:00:438 CPU/(6594:6594): pase el la config
+[INFO] 10:06:00:438 CPU/(6594:6594): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 18:34:33:177 CPU/(2694:2694): pase el la config
+[INFO] 18:34:33:177 CPU/(2694:2694): CPU 'hola' conectada al Kernel por dispatch (8001) e interrupt (8004)
+[INFO] 18:40:46:952 CPU/(3732:3732): pase el la config
+[ERROR] 18:40:46:952 CPU/(3732:3732): Error al conectar 
+
+[INFO] 18:40:46:952 CPU/(3732:3732): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 18:55:21:588 CPU/(4119:4119): pase el la config
+[ERROR] 18:55:21:588 CPU/(4119:4119): Error al conectar 
+
+[INFO] 18:55:21:588 CPU/(4119:4119): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 18:56:38:246 CPU/(4968:4968): pase el la config
+[ERROR] 18:56:38:246 CPU/(4968:4968): Error al conectar 
+
+[INFO] 18:56:38:246 CPU/(4968:4968): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 18:58:03:216 CPU/(5265:5265): pase el la config
+[ERROR] 18:58:03:216 CPU/(5265:5265): Error al conectar 
+
+[INFO] 18:58:03:216 CPU/(5265:5265): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 01:59:04:275 CPU/(3965:3965): pase el la config
+[ERROR] 01:59:04:287 CPU/(3965:3965): Error al conectar 
+
+[INFO] 01:59:04:287 CPU/(3965:3965): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 02:01:07:050 CPU/(4298:4298): pase el la config
+[ERROR] 02:01:07:051 CPU/(4298:4298): Error al conectar 
+
+[INFO] 02:01:07:051 CPU/(4298:4298): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 02:03:36:639 CPU/(5730:5730): pase el la config
+[ERROR] 02:03:36:639 CPU/(5730:5730): Error al conectar 
+
+[INFO] 02:03:36:639 CPU/(5730:5730): CPU 'hola' conectada al Kernel por dispatch (1431678256) e interrupt (8004)
+[INFO] 02:10:35:107 CPU/(6148:6148): pase el la config 8001
+[ERROR] 02:10:35:107 CPU/(6148:6148): Error al conectar 
+
+[INFO] 02:12:27:665 CPU/(6721:6721): pase el la config 8017
+[INFO] 02:12:27:665 CPU/(6721:6721): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:23:22:734 CPU/(8477:8477): pase el la config 8017
+[ERROR] 02:23:22:735 CPU/(8477:8477): Error al conectar 
+
+[INFO] 02:26:46:667 CPU/(9451:9451): pase el la config 8017
+[ERROR] 02:26:46:667 CPU/(9451:9451): Error al conectar 
+
+[INFO] 02:27:03:922 CPU/(9732:9732): pase el la config 8017
+[ERROR] 02:27:03:922 CPU/(9732:9732): Error al conectar 
+
+[INFO] 02:27:26:097 CPU/(10280:10280): pase el la config 8017
+[INFO] 02:27:26:097 CPU/(10280:10280): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:31:45:116 CPU/(10730:10730): pase el la config 8017
+[INFO] 02:31:45:116 CPU/(10730:10730): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:32:23:654 CPU/(10999:10999): pase el la config 8017
+[INFO] 02:32:23:656 CPU/(10999:10999): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:33:33:335 CPU/(11267:11267): pase el la config 8017
+[INFO] 02:33:33:336 CPU/(11267:11267): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:33:33:336 CPU/(11267:11267): mensajitovale  127.0.0.1
+[INFO] 02:37:27:274 CPU/(11994:11994): pase el la config 8017
+[INFO] 02:37:27:274 CPU/(11994:11994): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:38:05:257 CPU/(12306:12306): pase el la config 8017
+[ERROR] 02:38:05:257 CPU/(12306:12306): Error al conectar 
+
+[INFO] 02:38:25:040 CPU/(12854:12854): pase el la config 8017
+[INFO] 02:38:25:041 CPU/(12854:12854): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:38:46:390 CPU/(13162:13162): pase el la config 8017
+[INFO] 02:38:46:390 CPU/(13162:13162): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:39:00:494 CPU/(13422:13422): pase el la config 8017
+[INFO] 02:39:00:494 CPU/(13422:13422): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:39:11:469 CPU/(13676:13676): pase el la config 8017
+[INFO] 02:39:11:469 CPU/(13676:13676): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:39:20:733 CPU/(13941:13941): pase el la config 8017
+[INFO] 02:39:20:733 CPU/(13941:13941): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:39:35:248 CPU/(14195:14195): pase el la config 8017
+[INFO] 02:39:35:249 CPU/(14195:14195): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:39:48:439 CPU/(14454:14454): pase el la config 8017
+[INFO] 02:39:48:439 CPU/(14454:14454): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 02:41:33:025 CPU/(15088:15088): pase el la config 8017
+[INFO] 02:41:33:025 CPU/(15088:15088): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:37:30:062 CPU/(2523:2523): pase el la config 8017
+[INFO] 03:37:30:064 CPU/(2523:2523): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:38:35:617 CPU/(2889:2889): pase el la config 8017
+[INFO] 03:38:35:618 CPU/(2889:2889): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:41:15:946 CPU/(3502:3502): pase el la config 8017
+[INFO] 03:41:15:947 CPU/(3502:3502): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:45:53:673 CPU/(4305:4305): pase el la config 8017
+[ERROR] 03:45:53:673 CPU/(4305:4305): Error al conectar 
+
+[INFO] 03:46:20:793 CPU/(4854:4854): pase el la config 8017
+[INFO] 03:46:20:793 CPU/(4854:4854): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:49:01:037 CPU/(6183:6183): pase el la config 8017
+[INFO] 03:49:01:038 CPU/(6183:6183): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:50:39:771 CPU/(6868:6868): pase el la config 8017
+[INFO] 03:50:39:772 CPU/(6868:6868): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 03:58:58:766 CPU/(7615:7615): pase el la config 8017
+[INFO] 03:58:58:766 CPU/(7615:7615): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 04:04:14:088 CPU/(8642:8642): pase el la config 8017
+[INFO] 04:04:14:088 CPU/(8642:8642): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 04:05:24:616 CPU/(9270:9270): pase el la config 8017
+[INFO] 04:05:24:617 CPU/(9270:9270): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 04:06:15:325 CPU/(9871:9871): pase el la config 8017
+[INFO] 04:06:15:326 CPU/(9871:9871): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 04:09:42:104 CPU/(10800:10800): pase el la config 8017
+[INFO] 04:09:42:104 CPU/(10800:10800): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 04:18:19:167 CPU/(11904:11904): pase el la config 8017
+[INFO] 04:18:19:168 CPU/(11904:11904): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 04:19:53:072 CPU/(12494:12494): pase el la config 8017
+[INFO] 04:19:53:072 CPU/(12494:12494): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:08:14:195 CPU/(2584:2584): pase el la config 8017
+[INFO] 14:08:14:202 CPU/(2584:2584): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:13:48:739 CPU/(3490:3490): pase el la config 8017
+[ERROR] 14:13:48:739 CPU/(3490:3490): Error al conectar 
+
+[INFO] 14:13:48:739 CPU/(3490:3490): hola 9
+[INFO] 14:14:13:037 CPU/(3753:3753): pase el la config 8017
+[ERROR] 14:14:13:037 CPU/(3753:3753): Error al conectar 
+
+[INFO] 14:14:13:037 CPU/(3753:3753): hola 10
+[INFO] 14:15:43:433 CPU/(4032:4032): pase el la config 8017
+[ERROR] 14:15:43:434 CPU/(4032:4032): Error al conectar 
+
+[INFO] 14:16:33:731 CPU/(4297:4297): pase el la config 8017
+[ERROR] 14:16:33:732 CPU/(4297:4297): Error al conectar 
+
+[INFO] 14:18:48:890 CPU/(4565:4565): pase el la config 8017
+[ERROR] 14:18:48:891 CPU/(4565:4565): Error al conectar 
+
+[INFO] 14:19:07:322 CPU/(4823:4823): pase el la config 8017
+[ERROR] 14:19:07:322 CPU/(4823:4823): Error al conectar 
+
+[INFO] 14:22:24:105 CPU/(5356:5356): pase el la config 8017
+[INFO] 14:22:24:106 CPU/(5356:5356): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:23:15:918 CPU/(5887:5887): pase el la config 8017
+[INFO] 14:23:15:919 CPU/(5887:5887): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:37:33:794 CPU/(7854:7854): pase el la config 8017
+[INFO] 14:37:33:795 CPU/(7854:7854): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:39:21:297 CPU/(8170:8170): pase el la config 8017
+[ERROR] 14:39:21:298 CPU/(8170:8170): Error al conectar 
+
+[INFO] 14:39:21:299 CPU/(8170:8170): el char dice 127.0.0.1
+[INFO] 14:39:43:776 CPU/(8713:8713): pase el la config 8017
+[INFO] 14:39:43:776 CPU/(8713:8713): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:39:43:776 CPU/(8713:8713): el char dice 127.0.0.1
+[INFO] 14:44:01:045 CPU/(9365:9365): pase el la config 8017
+[INFO] 14:44:01:046 CPU/(9365:9365): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:44:01:046 CPU/(9365:9365): el char dice 127.0.0.1
+[INFO] 14:44:32:502 CPU/(9629:9629): pase el la config 8017
+[ERROR] 14:44:32:502 CPU/(9629:9629): Error al conectar 
+
+[INFO] 14:44:32:502 CPU/(9629:9629): el char dice 127.0.0.1
+[INFO] 14:44:49:363 CPU/(10146:10146): pase el la config 8017
+[INFO] 14:44:49:364 CPU/(10146:10146): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:44:49:364 CPU/(10146:10146): el char dice 127.0.0.1
+[INFO] 14:45:37:468 CPU/(10687:10687): pase el la config 8017
+[INFO] 14:45:37:468 CPU/(10687:10687): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:45:37:468 CPU/(10687:10687): el char dice 127.0.0.1
+[INFO] 14:48:21:346 CPU/(11297:11297): pase el la config 8017
+[INFO] 14:48:21:346 CPU/(11297:11297): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:48:21:346 CPU/(11297:11297): el char dice 127.0.0.1
+[INFO] 14:50:51:357 CPU/(12077:12077): pase el la config 8017
+[INFO] 14:50:51:358 CPU/(12077:12077): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:50:51:358 CPU/(12077:12077): el char dice 127.0.0.1
+[INFO] 14:53:20:004 CPU/(12721:12721): pase el la config 8017
+[INFO] 14:53:20:004 CPU/(12721:12721): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:53:20:004 CPU/(12721:12721): el char dice 127.0.0.1
+[INFO] 14:56:20:522 CPU/(13334:13334): pase el la config 8017
+[INFO] 14:56:20:522 CPU/(13334:13334): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:56:20:522 CPU/(13334:13334): el char dice 127.0.0.1
+[INFO] 14:58:35:579 CPU/(14095:14095): pase el la config 8017
+[INFO] 14:58:35:579 CPU/(14095:14095): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:58:35:579 CPU/(14095:14095): el char dice 127.0.0.1
+[INFO] 14:59:10:377 CPU/(14697:14697): pase el la config 8017
+[INFO] 14:59:10:378 CPU/(14697:14697): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 14:59:10:378 CPU/(14697:14697): el char dice 127.0.0.1
+[INFO] 15:03:22:943 CPU/(15508:15508): pase el la config 8017
+[INFO] 15:03:22:943 CPU/(15508:15508): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:03:22:943 CPU/(15508:15508): el char dice 127.0.0.1
+[INFO] 15:03:58:402 CPU/(16135:16135): pase el la config 8017
+[INFO] 15:03:58:402 CPU/(16135:16135): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:03:58:402 CPU/(16135:16135): el char dice 127.0.0.1
+[INFO] 15:04:55:835 CPU/(17037:17037): pase el la config 8017
+[INFO] 15:04:55:836 CPU/(17037:17037): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:05:02:837 CPU/(17037:17037): el char dice 127.0.0.1
+[INFO] 15:06:06:833 CPU/(17755:17755): pase el la config 8017
+[INFO] 15:06:06:833 CPU/(17755:17755): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:06:06:834 CPU/(17755:17755): mensjae1
+[INFO] 15:06:13:834 CPU/(17755:17755): mensjae2
+[INFO] 15:12:35:753 CPU/(18712:18712): pase el la config 8017
+[INFO] 15:12:35:753 CPU/(18712:18712): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:12:35:754 CPU/(18712:18712): mensjae1
+[INFO] 15:12:42:755 CPU/(18712:18712): mensjae2
+[INFO] 15:13:38:699 CPU/(19412:19412): pase el la config 8017
+[INFO] 15:13:38:700 CPU/(19412:19412): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:13:38:700 CPU/(19412:19412): mensjae1
+[INFO] 15:14:43:439 CPU/(20046:20046): pase el la config 8017
+[ERROR] 15:14:43:439 CPU/(20046:20046): Error al conectar 
+
+[INFO] 15:14:43:439 CPU/(20046:20046): mensjae1
+[INFO] 15:15:05:956 CPU/(20358:20358): pase el la config 8017
+[ERROR] 15:15:05:957 CPU/(20358:20358): Error al conectar 
+
+[INFO] 15:15:05:957 CPU/(20358:20358): mensjae1
+[INFO] 15:15:26:134 CPU/(20952:20952): pase el la config 8017
+[INFO] 15:15:26:134 CPU/(20952:20952): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:15:26:134 CPU/(20952:20952): mensjae1
+[INFO] 15:16:59:449 CPU/(21598:21598): pase el la config 8017
+[INFO] 15:16:59:449 CPU/(21598:21598): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:16:59:450 CPU/(21598:21598): mensjae1
+[INFO] 15:18:54:305 CPU/(22224:22224): pase el la config 8017
+[INFO] 15:18:54:305 CPU/(22224:22224): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:18:54:305 CPU/(22224:22224): mensjae1
+[INFO] 15:18:55:306 CPU/(22224:22224): mensjae2
+[INFO] 15:22:51:876 CPU/(23089:23089): pase el la config 8017
+[INFO] 15:22:51:877 CPU/(23089:23089): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:22:51:877 CPU/(23089:23089): mensjae1
+[INFO] 15:22:52:879 CPU/(23089:23089): mensjae2
+[INFO] 15:23:46:655 CPU/(23749:23749): pase el la config 8017
+[INFO] 15:23:46:655 CPU/(23749:23749): Cliente conectado en 127.0.0.1:8017
+
+[INFO] 15:23:46:655 CPU/(23749:23749): mensjae1
+[INFO] 15:23:47:656 CPU/(23749:23749): mensjae2

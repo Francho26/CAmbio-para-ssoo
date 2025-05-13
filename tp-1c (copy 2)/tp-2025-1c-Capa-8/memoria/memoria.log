@@ -1,0 +1,117 @@
+[INFO] 19:41:28:079 MEMORIA/(18020:18020): Memoria escuchando en puerto 8002
+[INFO] 19:58:30:289 MEMORIA/(20310:20310): Memoria escuchando en puerto 8002
+[INFO] 20:12:06:828 MEMORIA/(23257:23257): Memoria escuchando en puerto 8002
+[INFO] 21:09:38:624 MEMORIA/(31103:31103): Memoria escuchando en puerto 8002
+[INFO] 21:10:21:472 MEMORIA/(31917:31917): Memoria escuchando en puerto 8002
+[INFO] 21:10:28:782 MEMORIA/(31917:31917): Nueva conexion aceptada
+[INFO] 21:14:21:120 MEMORIA/(32607:32607): Memoria escuchando en puerto 8002
+[INFO] 21:15:11:889 MEMORIA/(32922:32922): Memoria escuchando en puerto 8002
+[INFO] 21:16:03:851 MEMORIA/(33437:33437): Memoria escuchando en puerto 8002
+[INFO] 21:16:03:851 MEMORIA/(33437:33437): me meti en el while 8002
+[INFO] 21:16:57:744 MEMORIA/(33437:33437): Nueva conexion aceptada
+[INFO] 21:16:57:744 MEMORIA/(33437:33437): me meti en el while 8002
+[INFO] 21:18:42:535 MEMORIA/(34099:34099): Memoria escuchando en puerto 8002
+[INFO] 21:18:42:535 MEMORIA/(34099:34099): me meti en el while 8002
+[INFO] 21:19:03:137 MEMORIA/(34099:34099): Nueva conexion aceptada
+[INFO] 21:19:03:137 MEMORIA/(34099:34099): me meti en el while 8002
+[INFO] 22:23:41:078 MEMORIA/(50111:50111): Memoria escuchando en puerto 8002
+[INFO] 22:23:41:078 MEMORIA/(50111:50111): me meti en el while 8002
+[INFO] 22:24:38:884 MEMORIA/(50755:50755): Memoria escuchando en puerto 8002
+[INFO] 22:24:38:885 MEMORIA/(50755:50755): me meti en el while 8002
+[INFO] 22:48:25:906 MEMORIA/(53930:53930): Memoria escuchando en puerto 8002
+[INFO] 22:48:25:906 MEMORIA/(53930:53930): me meti en el while 8002
+[INFO] 22:48:33:222 MEMORIA/(53930:53930): Nueva conexion aceptada
+[INFO] 22:48:33:222 MEMORIA/(53930:53930): me meti en el while 8002
+[INFO] 23:09:11:312 MEMORIA/(57830:57830): Memoria escuchando en puerto 8002
+[INFO] 23:09:11:312 MEMORIA/(57830:57830): me meti en el while 8002
+[INFO] 23:25:12:110 MEMORIA/(59250:59250): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 00:59:47:463 MEMORIA/(8014:8014): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:04:12:304 MEMORIA/(8014:8014): Conectado en MEMORIA: 
+[INFO] 01:05:46:926 MEMORIA/(9753:9753): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:07:29:568 MEMORIA/(9753:9753): Conectado en MEMORIA: 
+[INFO] 01:07:46:058 MEMORIA/(10879:10879): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:09:39:194 MEMORIA/(11663:11663): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:10:51:198 MEMORIA/(12360:12360): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:11:10:143 MEMORIA/(12360:12360): pase el accept
+[INFO] 01:12:32:501 MEMORIA/(12989:12989): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:13:47:323 MEMORIA/(14307:14307): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:13:53:700 MEMORIA/(14307:14307): pase el recive
+[INFO] 01:13:53:700 MEMORIA/(14307:14307): Conectado en MEMORIA: KERNEL
+[INFO] 01:26:45:587 MEMORIA/(15147:15147): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:29:34:739 MEMORIA/(15147:15147): pase el recive
+[INFO] 01:29:34:739 MEMORIA/(15147:15147): Conectado en MEMORIA: 
+[INFO] 01:29:44:181 MEMORIA/(16329:16329): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:30:19:703 MEMORIA/(16329:16329): pase el recive
+[INFO] 01:30:19:703 MEMORIA/(16329:16329): Conectado en MEMORIA: 
+[INFO] 01:30:29:762 MEMORIA/(16896:16896): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:30:36:481 MEMORIA/(16896:16896): pase el recive
+[INFO] 01:30:36:481 MEMORIA/(16896:16896): Conectado en MEMORIA: KERNEL
+[INFO] 01:31:38:977 MEMORIA/(17460:17460): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:31:47:294 MEMORIA/(17460:17460): pase el recive
+[INFO] 01:31:47:294 MEMORIA/(17460:17460): Conectado en MEMORIA: KERNEL
+[INFO] 01:34:29:682 MEMORIA/(18385:18385): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:34:37:096 MEMORIA/(18385:18385): pase el recive
+[INFO] 01:34:37:096 MEMORIA/(18385:18385): Conectado en MEMORIA: KERNEL
+[INFO] 01:34:37:096 MEMORIA/(18385:18385): Esperando conexion en memoria (puerto 8002)...
+[INFO] 01:39:45:098 MEMORIA/(20365:20365): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:39:54:049 MEMORIA/(20365:20365): pase el recive
+[INFO] 01:39:54:049 MEMORIA/(20365:20365): Conectado en MEMORIA: KERNEL
+[INFO] 01:39:54:049 MEMORIA/(20365:20365): Esperando conexion en memoria (puerto 8002)...
+[INFO] 01:41:31:349 MEMORIA/(21338:21338): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:41:40:744 MEMORIA/(21338:21338): pase el recive
+[INFO] 01:41:40:744 MEMORIA/(21338:21338): Conectado en MEMORIA: KERNEL
+[INFO] 01:41:40:744 MEMORIA/(21338:21338): Esperando conexion en memoria (puerto 8002)...
+[INFO] 01:49:44:873 MEMORIA/(22442:22442): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:51:32:899 MEMORIA/(23486:23486): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:51:42:187 MEMORIA/(23486:23486): Conectado en MEMORIA: KERNEL
+[INFO] 01:51:42:187 MEMORIA/(23486:23486): Esperando conexion en memoria (puerto 8002)...
+[INFO] 01:56:19:794 MEMORIA/(25899:25899): Esperando conexion en MEMORIA (puerto 8002)...
+[INFO] 01:56:26:386 MEMORIA/(25899:25899): Conectado en MEMORIA: KERNEL
+[INFO] 01:56:26:386 MEMORIA/(25899:25899): Esperando conexion en memoria (puerto 8002)...
+[INFO] 02:12:12:242 MEMORIA/(27868:27868): Esperando conexion en MEMORIA_KERNEL (puerto 8002)...
+[INFO] 02:12:19:320 MEMORIA/(27868:27868): Conectado en MEMORIA_KERNEL: KERNEL
+[INFO] 02:12:19:320 MEMORIA/(27868:27868): Esperando conexion en MEMORIA_CPU (puerto 8002)...
+[INFO] 02:13:09:857 MEMORIA/(28798:28798): Esperando conexion en MEMORIA_KERNEL (puerto 8002)...
+[INFO] 02:13:18:781 MEMORIA/(28798:28798): Conectado en MEMORIA_KERNEL: KERNEL
+[INFO] 02:13:18:781 MEMORIA/(28798:28798): Esperando conexion en MEMORIA_CPU (puerto 8002)...
+[INFO] 02:17:23:371 MEMORIA/(31097:31097): Esperando conexion en MEMORIA_KERNEL (puerto 8002)...
+[INFO] 02:17:28:143 MEMORIA/(31097:31097): Conectado en MEMORIA_KERNEL: KERNEL
+[INFO] 02:17:28:143 MEMORIA/(31097:31097): Esperando conexion en MEMORIA_CPU (puerto 8002)...
+[INFO] 02:24:18:667 MEMORIA/(33358:33358): Servidor escuchando en puerto 8002
+[INFO] 02:24:24:333 MEMORIA/(33358:33358): Se conectó un cliente a MEMORIA
+[INFO] 02:24:24:333 MEMORIA/(33358:33358): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 02:25:21:297 MEMORIA/(33358:33358): Se conectó un cliente a MEMORIA
+[INFO] 02:25:21:297 MEMORIA/(33358:33358): 🤝 Handshake recibido en MEMORIA: hola
+[INFO] 02:32:37:830 MEMORIA/(35172:35172): Servidor escuchando en puerto 8002
+[INFO] 02:35:29:335 MEMORIA/(35172:35172): Se conectó un cliente a MEMORIA
+[INFO] 02:35:29:335 MEMORIA/(35172:35172): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 02:35:58:933 MEMORIA/(35172:35172): Se conectó un cliente a MEMORIA
+[INFO] 02:35:58:933 MEMORIA/(35172:35172): 🤝 Handshake recibido en MEMORIA: hola
+[INFO] 02:37:41:121 MEMORIA/(36878:36878): Servidor escuchando en puerto 8002
+[INFO] 02:38:12:892 MEMORIA/(36878:36878): Se conectó un cliente a MEMORIA
+[INFO] 02:38:12:892 MEMORIA/(36878:36878): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 02:38:30:012 MEMORIA/(36878:36878): Se conectó un cliente a MEMORIA
+[INFO] 02:38:30:012 MEMORIA/(36878:36878): 🤝 Handshake recibido en MEMORIA: hola
+[INFO] 19:25:20:227 MEMORIA/(2674:2674): Servidor escuchando en puerto 8002
+[INFO] 19:26:16:912 MEMORIA/(2674:2674): Se conectó un cliente a MEMORIA
+[INFO] 19:26:16:929 MEMORIA/(2674:2674): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 19:27:32:691 MEMORIA/(2674:2674): Se conectó un cliente a MEMORIA
+[INFO] 19:27:32:691 MEMORIA/(2674:2674): 🤝 Handshake recibido en MEMORIA: hawai
+[INFO] 22:31:37:138 MEMORIA/(3587:3587): Servidor escuchando en puerto 8002
+[INFO] 22:32:03:796 MEMORIA/(3587:3587): Se conectó un cliente a MEMORIA
+[INFO] 22:32:03:796 MEMORIA/(3587:3587): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 22:32:36:378 MEMORIA/(3587:3587): Se conectó un cliente a MEMORIA
+[INFO] 22:32:36:378 MEMORIA/(3587:3587): 🤝 Handshake recibido en MEMORIA: hola
+[INFO] 23:25:23:336 MEMORIA/(5967:5967): Servidor escuchando en puerto 8002
+[INFO] 23:25:31:910 MEMORIA/(5967:5967): Se conectó un cliente a MEMORIA
+[INFO] 23:25:31:910 MEMORIA/(5967:5967): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 01:15:18:443 MEMORIA/(6997:6997): Servidor escuchando en puerto 8002
+[INFO] 01:31:00:452 MEMORIA/(9322:9322): Servidor escuchando en puerto 8002
+[INFO] 01:32:12:805 MEMORIA/(9322:9322): Se conectó un cliente a MEMORIA
+[INFO] 01:32:12:806 MEMORIA/(9322:9322): 🤝 Handshake recibido en MEMORIA: hola
+[INFO] 01:33:34:908 MEMORIA/(10530:10530): Servidor escuchando en puerto 8002
+[INFO] 01:34:54:627 MEMORIA/(10530:10530): Se conectó un cliente a MEMORIA
+[INFO] 01:34:54:627 MEMORIA/(10530:10530): 🤝 Handshake recibido en MEMORIA: KERNEL
+[INFO] 03:03:18:220 MEMORIA/(8569:8569): Listo para escuchar a mi cliente
+[INFO] 03:04:10:412 MEMORIA/(8569:8569): Cliente conectado a memroira
+[INFO] 02:01:26:551 MEMORIA/(4857:4857): Listo para escuchar a mi cliente
